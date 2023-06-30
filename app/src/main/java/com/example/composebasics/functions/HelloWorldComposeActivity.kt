@@ -1,4 +1,4 @@
-package com.example.composebasics
+package com.example.composebasics.functions
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -7,7 +7,7 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.tooling.preview.Preview
 
-class HelloWorldCompose: ComponentActivity() {
+class HelloWorldComposeActivity: ComponentActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
