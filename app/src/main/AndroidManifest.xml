@@ -13,7 +13,7 @@
         android:theme="@style/Theme.ComposeBasics"
         tools:targetApi="31">
         <activity
-            android:name=".layouts.SeveralTextsActivity"
+            android:name=".lists_animations.ListsAnimationsComponentActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

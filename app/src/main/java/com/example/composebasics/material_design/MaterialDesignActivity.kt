@@ -10,8 +10,8 @@ import androidx.compose.material.Surface
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.composebasics.layouts.Message
 import com.example.composebasics.layouts.MessageCard
+import com.example.composebasics.model.Message
 
 class MaterialDesignActivity: ComponentActivity() {
 
